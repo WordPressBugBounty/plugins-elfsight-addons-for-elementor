@@ -3,7 +3,7 @@
  * Plugin Name: Elfsight Addons For Elementor
  * Description: Elfsight Addons includes 50+ widgets for Elementor Page Builder.
  * Plugin URI:  https://elfsight.com/elementor-widgets/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-elementor-addons&utm_term=list&utm_content=plugin-site
- * Version:     1.1.0
+ * Version:     1.2.0
  * Author:      Elfsight
  * Author URI:  https://elfsight.com/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-elementor-addons&utm_content=plugins-list
  * Text Domain: elfsight-elementor-extension
@@ -19,7 +19,7 @@ final class ElfsightElementorExtension
      * Plugin Version
      * @var string
      */
-    const VERSION = '1.1.0';
+    const VERSION = '1.2.0';
 
     /**
      * Instance

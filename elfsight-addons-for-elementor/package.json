@@ -1,10 +1,10 @@
 {
     "name": "elfsight-elementor-wp",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "",
     "scripts": {
-        "dev": "webpack --mode=development --watch",
-        "production": "webpack --mode=production"
+        "dev": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode=development --watch",
+        "production": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode=production"
     },
     "repository": {
         "type": "git",
@@ -29,6 +29,6 @@
         "svg-url-loader": "^3.0.2"
     },
     "dependencies": {
-        "@elfsight/embed-sdk": "^0.3.3"
+        "@elfsight/embed-sdk": "^0.3.4"
     }
 }

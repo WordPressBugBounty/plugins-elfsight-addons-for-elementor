@@ -2,8 +2,6 @@
 
 
 import { ElfsightEmbedSDK } from '@elfsight/embed-sdk/lib/embed-sdk.cjs';
-// import { ElfsightEmbedSDK } from '@elfsight/embed-sdk'; // @TODO fix "main"/"module"
-// import { ...methods } from '@elfsight/embed-sdk'; // @TODO fix methods decomposition
 
 const {
   displayEditButton,

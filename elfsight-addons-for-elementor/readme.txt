@@ -3,8 +3,8 @@ Contributors: elfsight
 Donate link: https://elfsight.com/elementor-widgets/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-elementor-addons&utm_term=donate&utm_content=description
 Tags: addon, extension, elementor, editor
 Requires at least: 5.0
-Tested up to: 6.5
-Stable tag: 1.1
+Tested up to: 6.8
+Stable tag: 1.2
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
