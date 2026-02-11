@@ -1,4 +1,4 @@
-=== 80+ Elementor Blocks by Elfsight. ===
+=== Elfsight Blocks for Elementor — 80+ Widgets ===
 Contributors: elfsight
 Donate link: https://elfsight.com/elementor-widgets/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-elementor-addons&utm_term=donate&utm_content=description
 Tags: addon, extension, elementor, editor
